@@ -1,4 +1,6 @@
 streamlit==1.26.0
 pandas==2.1.1
+altair==5.0.1
 opencv-python==4.8.1.78
 ultralytics==8.0.26
+yolox==0.3.1

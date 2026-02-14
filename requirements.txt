@@ -1,1 +1,7 @@
 # Placeholder for requirements.txt
+opencv-python
+opencv-python-headless
+altair
+pandas
+streamlit
+ultralytics

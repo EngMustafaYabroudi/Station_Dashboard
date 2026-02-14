@@ -1,0 +1,6 @@
+car_id,color,enter_time_sec,exit_time_sec,waiting_time_sec
+1,green,0.0,0.05,0.05
+2,green,0.0,1.35,1.35
+2,green,1.45,1.55,0.1
+2,green,1.6,1.65,0.05
+1,green,1.35,2.0,0.65

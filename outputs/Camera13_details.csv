@@ -1,0 +1,2 @@
+car_id,color,enter_time_sec,exit_time_sec,waiting_time_sec
+1,black,0.0,2.0,2.0
